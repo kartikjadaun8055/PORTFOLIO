@@ -407,10 +407,7 @@ const handleSubmit = async (e) => {
                   Contact Me
                 </p>
                 <h2 className="mt-3 text-3xl font-bold sm:text-4xl">Send Me a Message</h2>
-                <p className="mt-5 max-w-lg leading-8 text-white/70">
-                  Use this form to contact me directly. The message will be stored in the database,
-                  and a success notification will appear after submission.
-                </p>
+               
 
                 <div className="mt-8 space-y-4 text-white/75">
                   <p>
@@ -500,6 +497,7 @@ const handleSubmit = async (e) => {
     </div>
   );
 }
+
 
 
 
